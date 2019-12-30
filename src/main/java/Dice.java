@@ -6,6 +6,7 @@ public class Dice {
                 ok = -1;
             else if (a[i] != 6)
                 g += 1;
+
         }
         if(ok==1)
             System.out.println(g + "number of girls");
